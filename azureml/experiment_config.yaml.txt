@@ -1,0 +1,4 @@
+computeTarget: "your-compute-cluster"
+environment: "clv-env"
+entryScript: "notebooks/04_model_training.ipynb"
+sourceDirectory: "."
